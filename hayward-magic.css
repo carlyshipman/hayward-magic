@@ -1,0 +1,15 @@
+h1 { color: rgb(158, 52, 52); }
+h3 {font-size: 40px;}
+
+h2 { color: rgb(0, 0, 0); }
+h2 {font-size: 30px;}
+
+h3 { color: rgb(27, 129, 27);}
+h3 {font-size: 35px;}
+p { font-size: 25px;} 
+center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
